@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khawar Shehzad</h1>
 <h3 align="center">A passionate frontend Web developer from Lahore, Pakistan.</h3>
-
+<img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="khawarshehzads" height="30" width="40" />
 - 🔭 I’m currently working on Progsites Software house. **and working on Different React js Projects**
 
 - 🌱 I’m currently learning **Next js**
