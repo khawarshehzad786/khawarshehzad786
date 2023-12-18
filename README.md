@@ -1,5 +1,4 @@
-
-![khawar Virtual Assistant Service Promotion LinkedIn Banner](https://github.com/khawarshehzad786/khawarshehzad786/assets/46210816/aad22f81-34bc-4a68-94e8-a9acf7178c9e)
+[comment]: <![khawar Virtual Assistant Service Promotion LinkedIn Banner](https://github.com/khawarshehzad786/khawarshehzad786/assets/46210816/aad22f81-34bc-4a68-94e8-a9acf7178c9e)> (a reference style link.)
 
 <h1 align="center">Hi 👋, I'm Khawar Shehzad</h1>
 <h2 align="center">A passionate frontend Web developer from Lahore, Pakistan.</h2>
