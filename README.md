@@ -4,7 +4,7 @@
 <h2 align="center">A passionate frontend Web developer from Lahore, Pakistan.</h2>
 
 <img align="right" alt="img" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  width="240" />
-- 🔭 I’m currently working on StepInn Solution Software house. **and working on Different React js Projects**
+- 🔭 I’m currently working on Progsits Software house. **and working on Different React js Projects**
 
 - 🌱 I’m currently learning **Next js** 
 
