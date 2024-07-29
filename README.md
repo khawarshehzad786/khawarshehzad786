@@ -6,7 +6,7 @@
 <img align="right" alt="img" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  width="240" />
 - 🔭 I’m currently working on Infintrix Technologies Software house. **and working on Different React js Projects**
 
-- 🌱 I’m currently learning **Next js** 
+- 🌱 I’m currently learning **svelte** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/khawarshehzad786](https://github.com/khawarshehzad786)
 
