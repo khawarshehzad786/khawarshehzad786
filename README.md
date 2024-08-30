@@ -4,9 +4,9 @@
 <h2 align="center">A Passionate Frontend Web Developer From Lahore, Pakistan.</h2>
 
 <img align="right" alt="img" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  width="240" />
-- 🔭 I’m currently working on Infintrix Technologies Software house. **and working on Different React js Projects**
+- 🔭 I’m currently working on Infintrix Technologies ( Software Company ) **and working on Different React js Projects**
 
-- 🌱 I’m currently learning **svelte** 
+- 🌱 I’m currently learning **Svelte** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/khawarshehzad786](https://github.com/khawarshehzad786)
 
