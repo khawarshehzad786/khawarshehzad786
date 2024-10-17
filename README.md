@@ -4,7 +4,7 @@
 <h2 align="center">A Passionate Frontend Web Developer From Lahore, Pakistan.</h2>
 
 <img align="right" alt="img" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  width="240" />
-- 🔭 I’m currently working on Infintrix Technologies ( Software Company ) **and working on Different React js Projects**
+- 🔭 I’m currently working on Infintrix Technologies ( Software Company ) **and working on Different React & Next js Projects**
 
 - 🌱 I’m currently learning **Svelte** 
 
