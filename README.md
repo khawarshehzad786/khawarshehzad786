@@ -1,7 +1,7 @@
 [comment]: <![khawar Virtual Assistant Service Promotion LinkedIn Banner](https://github.com/khawarshehzad786/khawarshehzad786/assets/46210816/aad22f81-34bc-4a68-94e8-a9acf7178c9e)> (a reference style link.)
 
 <h1 align="center">Hi 👋, I'm Khawar Shehzad</h1>
-<h2 align="center">A Passionate Frontend Web Developer From Lahore, Pakistan.</h2>
+<h2 align="center">A Passionate Software Developer From Lahore, Pakistan.</h2>
 
 <img align="right" alt="img" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  width="240" />
 - 🔭 I’m currently working on Infintrix Technologies ( Software Company ) **and working on Different React & Next js Projects**
