@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **khawarshehzad856@gmail.com**
 
-- 📄 Know about my experiences [https://khawars-portfolio.netlify.app/](https://khawars-portfolio.netlify.app/)
+- 📄 Know about my experiences [https://khawar-dev.vercel.app/](https://khawar-dev.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
